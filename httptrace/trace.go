@@ -13,9 +13,9 @@ import (
 	"reflect"
 	"time"
 
-	tls "github.com/Tkd-Alex/utls"
+	tls "github.com/tkd-alex/utls"
 
-	"github.com/Tkd-Alex/fhttp/internal/nettrace"
+	"github.com/tkd-alex/fhttp/internal/nettrace"
 )
 
 // unique type to prevent assignment.

@@ -35,13 +35,13 @@ import (
 	"testing"
 	"time"
 
-	tls "github.com/Tkd-Alex/utls"
+	tls "github.com/tkd-alex/utls"
 
-	. "github.com/Tkd-Alex/fhttp"
-	"github.com/Tkd-Alex/fhttp/httptest"
-	"github.com/Tkd-Alex/fhttp/httputil"
-	"github.com/Tkd-Alex/fhttp/internal"
-	"github.com/Tkd-Alex/fhttp/internal/testenv"
+	. "github.com/tkd-alex/fhttp"
+	"github.com/tkd-alex/fhttp/httptest"
+	"github.com/tkd-alex/fhttp/httputil"
+	"github.com/tkd-alex/fhttp/internal"
+	"github.com/tkd-alex/fhttp/internal/testenv"
 )
 
 type dummyAddr string

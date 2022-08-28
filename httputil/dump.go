@@ -15,7 +15,7 @@ import (
 	"strings"
 	"time"
 
-	http "github.com/Tkd-Alex/fhttp"
+	http "github.com/tkd-alex/fhttp"
 )
 
 // drainBody reads all of b to memory and then returns two equivalent

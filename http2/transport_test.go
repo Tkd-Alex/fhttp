@@ -31,12 +31,12 @@ import (
 	"testing"
 	"time"
 
-	tls "github.com/Tkd-Alex/utls"
+	tls "github.com/tkd-alex/utls"
 
-	http "github.com/Tkd-Alex/fhttp"
-	"github.com/Tkd-Alex/fhttp/http2/hpack"
-	"github.com/Tkd-Alex/fhttp/httptest"
-	"github.com/Tkd-Alex/fhttp/httptrace"
+	http "github.com/tkd-alex/fhttp"
+	"github.com/tkd-alex/fhttp/http2/hpack"
+	"github.com/tkd-alex/fhttp/httptest"
+	"github.com/tkd-alex/fhttp/httptrace"
 )
 
 var (

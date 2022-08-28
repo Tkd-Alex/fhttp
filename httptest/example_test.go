@@ -9,8 +9,8 @@ import (
 	"io"
 	"log"
 
-	http "github.com/Tkd-Alex/fhttp"
-	"github.com/Tkd-Alex/fhttp/httptest"
+	http "github.com/tkd-alex/fhttp"
+	"github.com/tkd-alex/fhttp/httptest"
 )
 
 func ExampleResponseRecorder() {

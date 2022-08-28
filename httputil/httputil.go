@@ -9,7 +9,7 @@ package httputil
 import (
 	"io"
 
-	"github.com/Tkd-Alex/fhttp/internal"
+	"github.com/tkd-alex/fhttp/internal"
 )
 
 // NewChunkedReader returns a new chunkedReader that translates the data read from r

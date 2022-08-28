@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"net/url"
 
-	http "github.com/Tkd-Alex/fhttp"
+	http "github.com/tkd-alex/fhttp"
 )
 
 var (

@@ -27,12 +27,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	tls "github.com/Tkd-Alex/utls"
+	tls "github.com/tkd-alex/utls"
 
-	http "github.com/Tkd-Alex/fhttp"
-	"github.com/Tkd-Alex/fhttp/httptrace"
+	http "github.com/tkd-alex/fhttp"
+	"github.com/tkd-alex/fhttp/httptrace"
 
-	"github.com/Tkd-Alex/fhttp/http2/hpack"
+	"github.com/tkd-alex/fhttp/http2/hpack"
 	"golang.org/x/net/http/httpguts"
 	"golang.org/x/net/idna"
 )

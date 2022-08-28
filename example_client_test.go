@@ -11,10 +11,10 @@ import (
 	"strings"
 	"testing"
 
-	tls "github.com/Tkd-Alex/utls"
+	tls "github.com/tkd-alex/utls"
 
-	http "github.com/Tkd-Alex/fhttp"
-	"github.com/Tkd-Alex/fhttp/http2"
+	http "github.com/tkd-alex/fhttp"
+	"github.com/tkd-alex/fhttp/http2"
 )
 
 // Basic http test with Header Order + enable push

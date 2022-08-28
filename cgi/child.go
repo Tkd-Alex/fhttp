@@ -18,9 +18,9 @@ import (
 	"strconv"
 	"strings"
 
-	tls "github.com/Tkd-Alex/utls"
+	tls "github.com/tkd-alex/utls"
 
-	http "github.com/Tkd-Alex/fhttp"
+	http "github.com/tkd-alex/fhttp"
 )
 
 // Request returns the HTTP request as represented in the current

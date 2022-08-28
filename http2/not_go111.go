@@ -10,7 +10,7 @@ package http2
 import (
 	"net/textproto"
 
-	"github.com/Tkd-Alex/fhttp/httptrace"
+	"github.com/tkd-alex/fhttp/httptrace"
 )
 
 func traceHasWroteHeaderField(trace *httptrace.ClientTrace) bool { return false }

@@ -9,9 +9,9 @@ package http2
 import (
 	"sync"
 
-	tls "github.com/Tkd-Alex/utls"
+	tls "github.com/tkd-alex/utls"
 
-	http "github.com/Tkd-Alex/fhttp"
+	http "github.com/tkd-alex/fhttp"
 )
 
 // ClientConnPool manages a pool of HTTP/2 client connections.

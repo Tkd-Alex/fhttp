@@ -74,8 +74,8 @@ import (
 	"strings"
 	"time"
 
-	http "github.com/Tkd-Alex/fhttp"
-	"github.com/Tkd-Alex/fhttp/internal/profile"
+	http "github.com/tkd-alex/fhttp"
+	"github.com/tkd-alex/fhttp/internal/profile"
 )
 
 func init() {

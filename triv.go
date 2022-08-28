@@ -19,7 +19,7 @@ import (
 	"strconv"
 	"sync"
 
-	http "github.com/Tkd-Alex/fhttp"
+	http "github.com/tkd-alex/fhttp"
 )
 
 // hello world, the web server

@@ -11,9 +11,9 @@ import (
 	"io"
 	"strings"
 
-	tls "github.com/Tkd-Alex/utls"
+	tls "github.com/tkd-alex/utls"
 
-	http "github.com/Tkd-Alex/fhttp"
+	http "github.com/tkd-alex/fhttp"
 )
 
 // NewRequest returns a new incoming server Request, suitable

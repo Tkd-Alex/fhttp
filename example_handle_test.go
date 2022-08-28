@@ -9,7 +9,7 @@ import (
 	"log"
 	"sync"
 
-	http "github.com/Tkd-Alex/fhttp"
+	http "github.com/tkd-alex/fhttp"
 )
 
 type countHandler struct {

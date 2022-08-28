@@ -11,9 +11,9 @@ import (
 	"net/url"
 	"strings"
 
-	http "github.com/Tkd-Alex/fhttp"
-	"github.com/Tkd-Alex/fhttp/httptest"
-	"github.com/Tkd-Alex/fhttp/httputil"
+	http "github.com/tkd-alex/fhttp"
+	"github.com/tkd-alex/fhttp/httptest"
+	"github.com/tkd-alex/fhttp/httputil"
 )
 
 func ExampleDumpRequest() {

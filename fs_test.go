@@ -27,8 +27,8 @@ import (
 	"testing"
 	"time"
 
-	. "github.com/Tkd-Alex/fhttp"
-	"github.com/Tkd-Alex/fhttp/httptest"
+	. "github.com/tkd-alex/fhttp"
+	"github.com/tkd-alex/fhttp/httptest"
 )
 
 const (

@@ -22,7 +22,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/Tkd-Alex/fhttp/internal/cfg"
+	"github.com/tkd-alex/fhttp/internal/cfg"
 )
 
 // Builder reports the name of the builder running this test

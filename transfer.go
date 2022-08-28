@@ -18,8 +18,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Tkd-Alex/fhttp/httptrace"
-	"github.com/Tkd-Alex/fhttp/internal"
+	"github.com/tkd-alex/fhttp/httptrace"
+	"github.com/tkd-alex/fhttp/internal"
 
 	"golang.org/x/net/http/httpguts"
 )

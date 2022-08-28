@@ -17,8 +17,8 @@ import (
 	"sync"
 	"time"
 
-	http "github.com/Tkd-Alex/fhttp"
-	"github.com/Tkd-Alex/fhttp/cgi"
+	http "github.com/tkd-alex/fhttp"
+	"github.com/tkd-alex/fhttp/cgi"
 )
 
 // request holds the state for an in-progress request. As soon as it's complete,

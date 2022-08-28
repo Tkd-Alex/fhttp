@@ -23,7 +23,7 @@ import (
 	"sync"
 	"time"
 
-	tls "github.com/Tkd-Alex/utls"
+	tls "github.com/tkd-alex/utls"
 )
 
 // A Client is an HTTP client. Its zero value (DefaultClient) is a

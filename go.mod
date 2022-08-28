@@ -1,10 +1,10 @@
-module github.com/Tkd-Alex/fhttp
+module github.com/tkd-alex/fhttp
 
 go 1.18
 
 require (
 	github.com/andybalholm/brotli v1.0.4
-	github.com/Tkd-Alex/utls v0.4.1
+	github.com/tkd-alex/utls v0.4.2
 	golang.org/x/net v0.0.0-20220420153159-1850ba15e1be
 	golang.org/x/term v0.0.0-20220411215600-e5f449aeb171
 )
@@ -16,4 +16,4 @@ require (
 	golang.org/x/text v0.3.7 // indirect
 )
 
-// replace github.com/Tkd-Alex/utls => ../utls
+// replace github.com/tkd-alex/utls => ../utls

@@ -12,7 +12,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Tkd-Alex/fhttp/httptrace"
+	"github.com/tkd-alex/fhttp/httptrace"
 )
 
 // A Header represents the Key-value pairs in an HTTP header.

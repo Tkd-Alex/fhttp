@@ -18,7 +18,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Tkd-Alex/fhttp/internal"
+	"github.com/tkd-alex/fhttp/internal"
 )
 
 type respTest struct {

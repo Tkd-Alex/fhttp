@@ -15,7 +15,7 @@ import (
 	"sync"
 	"time"
 
-	http "github.com/Tkd-Alex/fhttp"
+	http "github.com/tkd-alex/fhttp"
 )
 
 // PublicSuffixList provides the public suffix of a domain. For example:
