@@ -11,9 +11,9 @@ import (
 	"strings"
 	"testing"
 
-	tls "github.com/bogdanfinn/utls"
+	tls "github.com/Tkd-Alex/utls"
 
-	http "github.com/bogdanfinn/fhttp"
+	http "github.com/Tkd-Alex/fhttp"
 )
 
 func TestNewRequest(t *testing.T) {

@@ -27,8 +27,8 @@ import (
 	"testing"
 	"time"
 
-	. "github.com/bogdanfinn/fhttp"
-	"github.com/bogdanfinn/fhttp/httptest"
+	. "github.com/Tkd-Alex/fhttp"
+	"github.com/Tkd-Alex/fhttp/httptest"
 )
 
 const (

@@ -27,10 +27,10 @@ import (
 	"testing"
 	"time"
 
-	tls "github.com/bogdanfinn/utls"
+	tls "github.com/Tkd-Alex/utls"
 
-	http "github.com/bogdanfinn/fhttp"
-	"github.com/bogdanfinn/fhttp/httptest"
+	http "github.com/Tkd-Alex/fhttp"
+	"github.com/Tkd-Alex/fhttp/httptest"
 
 	"golang.org/x/net/http2/hpack"
 )
